@@ -1,2 +1,2 @@
 # hello-world
-My learning repository
+I am new to git, so I'm trying to learn how to use it.
